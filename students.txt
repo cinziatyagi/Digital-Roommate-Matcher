@@ -1,5 +1,0 @@
-101|Aarav|Late|Evening|High|Quiet|Yes|Moderate|Vegetarian|Double|Music,Gaming
-102|Meera|Late|Evening|High|Quiet|Yes|Moderate|Vegetarian|Double|Music,Reading
-103|Kabir|Early|Morning|Medium|Lively|No|Social|No Preference|Triple|Sports,Gaming
-104|Ananya|Regular|Afternoon|High|Moderate|Yes|Private|Vegetarian|Double|Reading,Art
-105|Rohan|Late|Night|Medium|Quiet|Yes|Moderate|Non-Vegetarian|Double|Gaming,Music
