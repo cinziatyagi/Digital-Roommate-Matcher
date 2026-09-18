@@ -45,3 +45,48 @@ Digital-Roommate-Matcher/
 ├── data/
 │   └── students.txt
 └── README.md
+## Testing Instructions
+
+The project can be tested by running the application and checking each major functional module.
+
+### Functional Testing
+
+1. **Register Student**
+   - Enter valid student details.
+   - Verify that the student is added successfully.
+
+2. **View and Search Students**
+   - View all registered students.
+   - Search using a valid student ID.
+   - Verify that the correct profile is displayed.
+
+3. **Update Student Profile**
+   - Select an existing student.
+   - Modify the required preferences.
+   - Verify that the updated information is saved.
+
+4. **Delete Student Profile**
+   - Select an existing student.
+   - Delete the profile.
+   - Verify that the student no longer appears in the records.
+
+5. **Roommate Matching**
+   - Select a registered student.
+   - Generate roommate matches.
+   - Verify that compatible students are displayed with compatibility scores.
+
+6. **Input Validation**
+   - Enter invalid menu choices.
+   - Enter invalid numeric values.
+   - Leave required fields empty.
+   - Verify that appropriate validation messages are displayed.
+
+### Test Environment
+
+- Java JDK 17 or later
+- Command-line terminal
+- Windows, Linux, or macOS
+
+## Author
+
+Cinzia Tyagi
